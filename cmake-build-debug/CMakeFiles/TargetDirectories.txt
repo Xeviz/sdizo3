@@ -1,0 +1,3 @@
+C:/Users/Kuba/Desktop/sdizo-main/cmake-build-debug/CMakeFiles/sdizo1.dir
+C:/Users/Kuba/Desktop/sdizo-main/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kuba/Desktop/sdizo-main/cmake-build-debug/CMakeFiles/rebuild_cache.dir
